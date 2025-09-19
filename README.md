@@ -47,9 +47,9 @@ Source:[Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-
 - Logistic Regression
 - Random Forest Classifier
 - XGBoost Classifier 
-1. **Model Evaluation**: Evaluate models using accuracy,precision,recall,F1-score and ROC-AUC.Use confusion matrices and visualizations to interpret performance.
-1. **Insights**: Highlight actionable insights for HR interventions.
-1. **Reporting**: Summarize findings and recommendations in a dashboard or report. Provide visualizations to support decision-making. 
+5. **Model Evaluation**: Evaluate models using accuracy,precision,recall,F1-score and ROC-AUC.Use confusion matrices and visualizations to interpret performance.
+6. **Insights**: Highlight actionable insights for HR interventions.
+7. **Reporting**: Summarize findings and recommendations in a dashboard or report. Provide visualizations to support decision-making. 
 
  
 
