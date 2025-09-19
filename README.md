@@ -39,13 +39,16 @@ The dataset that we'll be using for this project contains 14,999 rows and 10 col
 
 ## Key Steps
 
-1. **Data Exploration**: Load and inspect the dataset to understand its structure and identify any issues.
-1. **Data Cleaning**: Handle missing values,outliers and data types to prepare the data for analysis.
-1. **Feature Engineering**: Create new features that may enhance model performance.
-1. **Model Building**: Train multiple machine learning models and evaluate their performance.
-1. **Model Evaluation**: Assess models using appropriate metrics and select the best performing one.
-1. **Visualization**: Create visualizations to communicate findings and insights.
-1. **Reporting**: Compile the analysis and results into a comprehensive report.
+1. **Data Exploration**: Load and inspect the dataset to understand its structure and identify any issues. Explore summary statistics and visualize distributions of key features.
+1. **Data Cleaning**: Handle missing values,outliers and data types to prepare the data for analysis.Encode categorical variables.Normalize or scale numerical features as needed.
+1. **Feature Engineering**: Create new features that capture patterns related to churn. Perform feature selection using correlation analysis and importance ranking.
+1. **Model Building**: Train multiple machine learning models to predict employee attrition:
+- Logistic Regression
+- Random Forest Classifier
+- XGBoost Classifier 
+1. **Model Evaluation**: Evaluate models using accuracy,precision,recall,F1-score and ROC-AUC.Use confusion matrices and visualizations to interpret performance.
+1. **Insights**: Highlight actionable insights for HR interventions.
+1. **Reporting**: Summarize findings and recommendations in a dashboard or report. Provide visualizations to support decision-making. 
 
  
 
