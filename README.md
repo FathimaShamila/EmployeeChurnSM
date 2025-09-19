@@ -23,6 +23,7 @@ The project is based on real-world HR datasets and leverages advanced data analy
 ## Dataset
 
 The dataset that we'll be using for this project contains 14,999 rows and 10 columns for the variables listed below.
+Source:[Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
 
 **Variables**                                        
 
