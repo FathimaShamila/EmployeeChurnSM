@@ -14,9 +14,9 @@ The project is based on real-world HR datasets and leverages advanced data analy
 ## Tools & Technologies
 
 - **Programming Language**: Python
-- **Libraries**: Pandas,Numpy,Matplotlib,Seaborn,Scikit-Learn,XGBoost
-- **Data Visualization**: Matplotlib,Seaborn
-- **Machine Learning Models**: Logistic Regression,Random Forest,XGBoost
+- **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, XGBoost
+- **Data Visualization**: Matplotlib, Seaborn
+- **Machine Learning Models**: Logistic Regression, Random Forest, XGBoost
 - **Development Environment**: Jupyter Notebook, VS Code
 
 
